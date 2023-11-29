@@ -22,7 +22,7 @@ let platformIndexs = [];
 let platformColors = [];
 
 function preload() {
-  importData = loadJSON("/l0mp/Platforming-Game/levels/stage.json");
+  importData = loadJSON("/levels/stage.json");
 }
 
 function setup() {
