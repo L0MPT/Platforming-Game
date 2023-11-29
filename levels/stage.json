@@ -1,0 +1,61 @@
+[
+    {
+      "StageX": 0,
+      "StageY": 0,
+      "Platform": {
+        "x": 200,
+        "y": 300,
+        "mWidth": 100,
+        "mHeight": 20,
+        "type": 0
+      }
+    },
+    {
+      "StageX": 1,
+      "StageY": 0,
+      "Platform": {
+        "x": 300,
+        "y": 200,
+        "mWidth": 20,
+        "mHeight": 190,
+        "type": 0
+      }
+    },
+    {
+      "StageX": 0,
+      "StageY": 0,
+      "Platform": {
+        "x": 190,
+        "y": 230,
+        "mWidth": 40,
+        "mHeight": 20,
+        "type": 0
+      }
+    },
+    {
+      "StageX": 0,
+      "StageY": 0,
+      "Platform": {
+        "x": 180,
+        "y": 240,
+        "mWidth": 60,
+        "mHeight": 40,
+        "type": 0
+      }
+    },
+    {
+      "StageX": 1,
+      "StageY": 0,
+      "Platform": {
+        "x": 180,
+        "y": 240,
+        "mWidth": 60,
+        "mHeight": 40,
+        "type": 2,
+        "vectorX": 10,
+        "vectorY": -10
+      }
+    }
+  
+  ]
+  
